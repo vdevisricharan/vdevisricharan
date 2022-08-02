@@ -13,3 +13,5 @@ Skills: JAVA / PYTHON / HTML / CSS / JS / C++ / R / MATLAB
 - 📫 How to reach me: devisricharancodes@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&count_private=true)  
