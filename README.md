@@ -5,3 +5,9 @@
 I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for internships and open-source collaborations to improve my skills and solve real-world problems that can make someone's task easy.
 
 Skills: JAVA / PYTHON / HTML / CSS / JS / C++ / R / MATLAB
+
+- 🔭 I’m currently working on an open source project in [chingu voyage 40](https://github.com/chingu-voyages/v40-bears-team-36) and a cryptocurrency website. 
+- 🌱 I’m currently learning MERN Stack. 
+- 👯 I’m looking to collaborate on the responsive frontend, full-stack, Machine Learning p.rojects 
+- 🤔 I’m looking for help with React, NodeJS, MongoDB, Express JS 
+- 📫 How to reach me: devisricharancodes@gmail.com 
