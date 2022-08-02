@@ -15,3 +15,5 @@ Skills: JAVA / PYTHON / HTML / CSS / JS / C++ / R / MATLAB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devisri-charan)  
