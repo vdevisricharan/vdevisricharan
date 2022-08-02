@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Devi Sri Charan
+![Profile views](https://gpvc.arturio.dev/devisri-charan)
 #### I'm a Web Developer👨🏼‍💻and ML enthusiast
 ![I'm a Web Developer👨🏼‍💻and ML enthusiast](https://user-images.githubusercontent.com/88871184/182323596-22e843cb-d4ea-4db4-9018-36f6a0c1e79c.png)
 
