@@ -11,3 +11,5 @@ Skills: JAVA / PYTHON / HTML / CSS / JS / C++ / R / MATLAB
 - 👯 I’m looking to collaborate on the responsive frontend, full-stack, Machine Learning p.rojects 
 - 🤔 I’m looking for help with React, NodeJS, MongoDB, Express JS 
 - 📫 How to reach me: devisricharancodes@gmail.com 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan)](https://github.com/anuraghazra/github-readme-stats)
