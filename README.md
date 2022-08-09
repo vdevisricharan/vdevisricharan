@@ -1,7 +1,8 @@
 # Hi 👋, I'm Devi Sri Charan
 
-### I'm a Web Developer👨🏼‍💻and AI/ML enthusiast
+![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=I'm+a+Web+Developer%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BBand+AI%2FML+enthusiast)](https://git.io/typing-svg)
 ## 👨🏼‍💻 About me
 
 I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for internships and open-source collaborations in web development or AI/ML projects to improve my skills and solve real-world problems that can make someone's task easy.
@@ -11,6 +12,8 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 - 👯 I’m looking to collaborate on the responsive frontend, full-stack, Machine Learning projects
 - 🫱🏻‍🫲🏻 I’m looking for help with React, NodeJS, MongoDB, Express JS
 - 📫 How to reach me: devisricharancodes@gmail.com
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠️ Skills
 
@@ -48,9 +51,9 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&&theme=radical&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devisri-charan)
 
@@ -59,5 +62,3 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 ![GitHub metrics](https://metrics.lecoq.io/devisri-charan)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devisri-charan&")
-
-![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
