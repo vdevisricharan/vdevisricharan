@@ -1,9 +1,14 @@
-# Hi 👋, I'm Devi Sri Charan
+# Hi 👋, I'm Devi Sri Charan (💻👨🏻‍💻🎧🎦🔁)
 
 ![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=I'm+a+Web+Developer%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BBand+AI%2FML+enthusiast)](https://git.io/typing-svg)
-## 👨🏼‍💻 About me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devisricharan)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devisricharan.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devisricharan_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/devisricharan_.5)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=%23F77B93&vCenter=true&width=650&height=40&lines=I'm+a+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+and+an+AI%2FML+enthusiast)](https://git.io/typing-svg)
+## 👨🏻‍💻 About me
 
 I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for internships and open-source collaborations in web development or AI/ML projects to improve my skills and solve real-world problems that can make someone's task easy.
 
@@ -13,6 +18,7 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 - 🫱🏻‍🫲🏻 I’m looking for help with React, NodeJS, MongoDB, Express JS
 - 📫 How to reach me: devisricharancodes@gmail.com
 
+## ✍🏻 Programming Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠️ Skills
@@ -44,11 +50,6 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- Linux --> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-
-## 🔗 Connect with me
-<!-- Twitter --><a href="https://twitter.com/devisricharan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="devisricharan_" height="30" width="40" /></a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/devisricharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devi-sri-charan-440912214" height="30" width="40" /></a> <!-- Instagram --> <a href="https://instagram.com/devisricharan_.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devisricharan_.5" height="30" width="40" />
-
-
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,8 +58,8 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devisri-charan)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devisri-charan)
-
 ![GitHub metrics](https://metrics.lecoq.io/devisri-charan)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devisri-charan&")
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
