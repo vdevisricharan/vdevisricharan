@@ -52,7 +52,7 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&&theme=radical&count_private=true)
 
