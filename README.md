@@ -58,8 +58,6 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devisri-charan)
 
-![GitHub metrics](https://metrics.lecoq.io/devisri-charan)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
