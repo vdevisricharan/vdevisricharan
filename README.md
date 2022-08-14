@@ -19,7 +19,7 @@ I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design 
 - 📫 How to reach me: devisricharancodes@gmail.com
 
 ## ✍🏻 Programming Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🛠️ Skills
 
