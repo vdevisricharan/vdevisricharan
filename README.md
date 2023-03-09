@@ -12,7 +12,6 @@
 
 I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for internships and open-source collaborations in web development or AI/ML projects to improve my skills and solve real-world problems that can make someone's task easy.
 
-- 🔭 I’m currently working on an open source project in [chingu voyage 40](https://github.com/chingu-voyages/v40-bears-team-36) and a cryptocurrency website.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on the responsive frontend, full-stack, Machine Learning projects
 - 🫱🏻‍🫲🏻 I’m looking for help with React, NodeJS, MongoDB, Express JS
