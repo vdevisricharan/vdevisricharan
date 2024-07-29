@@ -10,11 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=%23F77B93&vCenter=true&width=650&height=40&lines=I'm+a+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+and+an+AI%2FML+enthusiast)](https://git.io/typing-svg)
 ## 👨🏻‍💻 About me
 
-I'm a junior at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for internships and open-source collaborations in web development or AI/ML projects to improve my skills and solve real-world problems that can make someone's task easy.
+I'm undergraduate at [IIIT Delhi](http://iiitd.ac.in) in Computer Science and Design stream. I'm actively looking for opportunities in web development or AI/ML projects to improve my skills and solve real-world problems.
 
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m experienced in MERN Stack.
 - 👯 I’m looking to collaborate on the responsive frontend, full-stack, Machine Learning projects
-- 🫱🏻‍🫲🏻 I’m looking for help with React, NodeJS, MongoDB, Express JS
 - 📫 How to reach me: devisricharancodes@gmail.com
 
 ## ✍🏻 Programming Quote
