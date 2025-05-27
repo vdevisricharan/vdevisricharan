@@ -3,9 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devisricharan)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devisricharan.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devisricharan_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/devisricharan_.5)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shrecharan.netlify.app)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/theshrecharan)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=%23F77B93&vCenter=true&width=650&height=40&lines=I'm+a+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+and+an+AI%2FML+enthusiast)](https://git.io/typing-svg)
 ## 👨🏻‍💻 About me
@@ -13,7 +12,7 @@
 I'm an undergraduate in Computer Science and Design stream at [IIIT Delhi](http://iiitd.ac.in). I'm actively looking for opportunities in Software Engineering Roles.
 
 - 🌱 I’m experienced in MERN Stack, Python, Next.js, React Native, and Large Language Models.
-- 👯 I’m looking to collaborate on the responsive frontend, full-stack, and Machine Learning projects
+- 👯 I’m looking to collaborate on the responsive Generative AI focused full stack projects
 - 📫 How to reach me: vdevisricharan@gmail.com
 
 ## ✍🏻 Programming Quote
