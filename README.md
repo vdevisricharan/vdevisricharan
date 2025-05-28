@@ -1,19 +1,18 @@
-# Hi 👋, I'm Devi Sri Charan (💻👨🏻‍💻🎧🎦🔁)
+# Hi 👋, I'm Charan (💻👨🏻‍💻🎧🎦🔁)
 
 ![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devisricharan)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shrecharan.netlify.app)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/theshrecharan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vdevisricharan)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vdevisricharan.netlify.app)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=%23F77B93&vCenter=true&width=650&height=40&lines=I'm+a+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+and+an+AI%2FML+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=650&size=32&duration=3000&pause=936&color=D4B461&multiline=true&width=1000&lines=I+turn+caffeine+%E2%98%95%2C+chaos+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%2C+and+code+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+into+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 ## 👨🏻‍💻 About me
 
-I'm an undergraduate in Computer Science and Design stream at [IIIT Delhi](http://iiitd.ac.in). I'm actively looking for opportunities in Software Engineering Roles.
+I am currently working as a Software Engineer at [Lumiq](https://lumiq.ai/). I graduated with a degree in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in), and I am actively seeking opportunities in challenging and diverse software engineering roles.
 
-- 🌱 I’m experienced in MERN Stack, Python, Next.js, React Native, and Large Language Models.
-- 👯 I’m looking to collaborate on the responsive Generative AI focused full stack projects
-- 📫 How to reach me: vdevisricharan@gmail.com
+- 🌱 I have experience with the MERN stack, Python, Next.js, React Native, and large language models.
+- 👯 I am looking to collaborate on full-stack projects focusing on the latest technologies, primarily centered on generative AI. 
+- 📫 You can reach me at: vdevisricharan@gmail.com
 
 ## ✍🏻 Programming Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -51,11 +50,11 @@ I'm an undergraduate in Computer Science and Design stream at [IIIT Delhi](http:
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisri-charan&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdevisricharan&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devisri-charan&show_icons=true&&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdevisricharan&show_icons=true&&theme=radical&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devisri-charan)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vdevisricharan)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
