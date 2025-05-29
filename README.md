@@ -1,4 +1,4 @@
-# Hi 👋, I'm Charan (💻👨🏻‍💻🎧🎦🔁)
+# Hi 👋, I'm Charan (🎶🎦👨🏻‍🎨✍🏻👨🏻‍💻)
 
 ![Profile views](https://komarev.com/ghpvc/?username=vdevisricharan&label=Profile%20views&color=D4B461&style=flat)
 
@@ -8,11 +8,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=650&size=32&duration=3000&pause=936&color=D4B461&multiline=true&width=1000&lines=I+turn+caffeine+%E2%98%95%2C+chaos+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%2C+and+code+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+into+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 ## 👨🏻‍💻 About me
 
-I am currently working as a Software Engineer at [Lumiq](https://lumiq.ai/). I graduated with a degree in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in), and I am actively seeking opportunities in challenging and diverse software engineering roles.
-
-- 🌱 I have experience with the MERN stack, Python, Next.js, React Native, and large language models.
-- 👯 I am looking to collaborate on full-stack projects focusing on the latest technologies, primarily centered on generative AI. 
-- 📫 You can reach me at: vdevisricharan@gmail.com
+I'm a Software Engineer at [Lumiq](https://lumiq.ai/), with a B.Tech in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in). I thrive at the intersection of software engineering and AI, and I’m actively looking for challenging full-stack or AI-driven roles where I can build impactful products.
+- ⚙️ Proficient in MERN stack, Python, TypeScript, Next.js, React Native, and AWS services.
+- 🤖 Worked on projects leveraging large language models, FastAPI, NestJS, and AI-powered tools.
+- 🚀 Built and deployed scalable platforms—from CMS-integrated web apps to AI agents—delivering measurable business value.
+- 💡 Passionate about generative AI, product design, and building end-to-end systems that blend usability with cutting-edge tech.
+- 👨🏻‍🔬 Previously contributed to a stealth startup, delivering MVPs and prototypes in high-ownership, fast-paced environments.
+- 📬 Reach me at: vdevisricharan@gmail.com
 
 ## ✍🏻 Programming Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
