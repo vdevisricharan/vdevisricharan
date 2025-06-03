@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 About me
 
 I'm a Software Engineer at [Lumiq](https://lumiq.ai/), with a B.Tech in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in). I thrive at the intersection of software engineering and AI, and I’m actively looking for challenging full-stack or AI-driven roles where I can build impactful products.
-- ⚙️ Proficient in MERN stack, Python, TypeScript, Next.js, React Native, and AWS services.
+- ⚙️ Proficient in MERN stack, Python, Java, and AWS services.
 - 🤖 Worked on projects leveraging large language models, FastAPI, NestJS, and AI-powered tools.
 - 🚀 Built and deployed scalable platforms—from CMS-integrated web apps to AI agents—delivering measurable business value.
 - 💡 Passionate about generative AI, product design, and building end-to-end systems that blend usability with cutting-edge tech.
