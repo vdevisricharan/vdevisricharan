@@ -1,80 +1,140 @@
-# Hi 👋, I'm Charan (🎶🎦👨🏻‍🎨✍🏻👨🏻‍💻)
+# Hi 👋, I'm Charan
 
-![Profile views](https://komarev.com/ghpvc/?username=vdevisricharan&label=Profile%20views&color=D4B461&style=flat)
+**Software Engineer** specializing in **Scalable Backend Systems**, **Applied AI / Machine Learning**, and **Full-Stack Engineering**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=D4B461)](https://linkedin.com/in/vdevisricharan)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=D4B461)](https://vdevisricharan.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vdevisricharan.netlify.app-D4B461?style=flat-square&logo=google-chrome&logoColor=0f172a)](https://vdevisricharan.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vdevisricharan-D4B461?style=flat-square&logo=linkedin&logoColor=0f172a)](https://linkedin.com/in/vdevisricharan)
+[![Email](https://img.shields.io/badge/Email-vdevisricharan%40gmail.com-D4B461?style=flat-square&logo=gmail&logoColor=0f172a)](mailto:vdevisricharan@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Hyderabad%20%7C%20New%20Delhi%2C%20India-D4B461?style=flat-square&logo=google-maps&logoColor=0f172a)](#)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=650&size=32&duration=3000&pause=936&color=D4B461&multiline=true&width=1000&lines=I+turn+caffeine+%E2%98%95%2C+chaos+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%2C+and+code+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+into+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
-## 👨🏻‍💻 About me
+---
 
-I'm an ex-Software Engineer at [Lumiq](https://lumiq.ai/), with a B.Tech in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in). I thrive at the intersection of software engineering and AI, and I’m actively looking for challenging full-stack or AI-driven roles where I can build impactful products.
-- ⚙️ Proficient in MERN stack, Python, Java, and AWS services.
-- 🤖 Worked on projects leveraging large language models, FastAPI, NestJS, and AI-powered tools.
-- 🚀 Built and deployed scalable platforms—from CMS-integrated web apps to AI agents—delivering measurable business value.
-- 💡 Passionate about generative AI, product design, and building end-to-end systems that blend usability with cutting-edge tech.
-- 👨🏻‍🔬 Previously contributed to a stealth startup, delivering MVPs and prototypes in high-ownership, fast-paced environments.
-- 📬 Reach me at: vdevisricharan@gmail.com
+## 👨🏻‍💻 About Me
 
-## ✍🏻 Programming Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+I'm a **Software Engineer** at [Skizen](https://skizen.in/) with previous experience at [Lumiq](https://lumiq.ai/), holding a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in) (2020–2024).
 
-## 🛠️ Skills
+I build production-oriented systems where robust software engineering meets applied AI:
+- **Backend Architecture & APIs:** Developing scalable RESTful services, spatial query engines, and real-time communication systems with Django REST Framework, FastAPI, Node.js/Express, and PostgreSQL.
+- **Asynchronous & Data Pipelines:** Designing distributed background task pipelines with Celery and Redis to decouple long-running jobs, analytics aggregation, and notification workflows.
+- **Applied AI & LLM Systems:** Orchestrating multi-agent state machines (LangGraph), hybrid vector retrieval systems (Qdrant, LanceDB), evaluation harnesses, and multimodal document parsing pipelines.
+- **Full-Stack & Mobile Products:** Building responsive cross-platform mobile apps with React Native (Expo) and performant web interfaces with Next.js and React.
 
-### 👨‍💻 Programming Languages
- <!-- Python -->
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- TypeScript --> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <!-- HTML5 --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!-- CSS3 --> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+---
 
-### 🧩 Frameworks & Libraries
-#### Frontend
-<!-- React --> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <!-- Redux --> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <!-- Nextjs--> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <!-- Tailwind CSS --> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <!-- Bootstrap --> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
+## 🎯 Current Focus
 
-#### Backend
-<!-- NodeJS -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <!-- Express --> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><!-- NestJS --> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a> <!-- FastAPI --> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a><!-- Flask --> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/flask/flask-original.svg" alt="fastapi" width="40" height="40"/> </a> <!-- Springboot--> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
+- **Building:** Mobile-first demand mapping and discovery services with GeoJSON spatial indexing, background media pipelines, and real-time Socket.IO chat.
+- **Exploring:** Agentic RAG routing, embedded zero-pod vector architectures, automated LLM evaluation frameworks with bias mitigation, and multimodal vision agents.
 
-#### UI Components & Prototyping
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <!-- Gradio --> <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/gradio-app/gradio/raw/main/readme_files/gradio.svg" alt="gradio" width="100" height="40"/> </a> <!-- Streamlit --> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/streamlit/streamlit-original.svg" alt="sass" width="40" height="40"/> </a>
+---
 
-### 🗄️ Databases & DevOps
-#### Databases
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <!-- PostgreSQL --> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <!-- Vespa --> <a href="https://docs.vespa.ai/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2d61b99ea62dd6ce2de9bb36b042cc041dbb01dfd1b483b6c0ccb9213e4e60c3/68747470733a2f2f6173736574732e76657370612e61692f6c6f676f732f56657370612d6c6f676f2d6461726b2d5247422e737667" alt="vespa" width="80" height="40"/></a>
+## 🚀 Featured Projects
 
-#### DevOps & Tools
-<!-- AWS -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <!-- Docker --> <a href="https://docs.vespa.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" alt="vespa" width="40" height="40"/></a> 
+### ⭐ Flagship Project: [Multi-Agent Medical Assistant](https://github.com/vdevisricharan/Multi-Agent-Medical-Assistant)
+> **Modular multi-agent medical assistance system** combining LangGraph decision routing, multimodal RAG, real-time web research, deep learning medical imaging, and safety guardrails.
 
-### 🤖 AI / ML / Data Science
-#### Frameworks & Libraries
-<!-- LangGraph -->
-<a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ba9213366333d7b44b0133fbc84876d427622bde15cdc738f9001beeb5dd2d27/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6461726b2e737667" alt="pandas" width="120" height="40"/> </a> <!-- LangChain --> <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ba9213366333d7b44b0133fbc84876d427622bde15cdc738f9001beeb5dd2d27/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6461726b2e737667" alt="pandas" width="120" height="40"/> </a> <!-- Hugging Face --> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/> </a> <!-- Pytorch -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/pytorch/pytorch-original.svg" alt="pandas" width="40" height="40"/> </a> <!-- Tensorflow --> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+```mermaid
+flowchart LR
+    A[User Query] --> B[LangGraph Decision Engine]
+    B --> C[Agentic RAG: Docling + Qdrant]
+    B --> D[PyTorch CV: X-ray & Lesion]
+    B --> E[Web Search: Tavily & PubMed]
+    C --> F[Confidence Check & Guardrails]
+    D --> G[Human-in-the-Loop Review]
+    F --> H[Validated Response]
+    G --> H
+```
 
-#### Data Tools
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <!-- Numpy --> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> <!-- scikit_learn --> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <!-- Seaborn --> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+- **Multi-Agent Orchestration:** Uses LangGraph to route queries across specialized conversational, retrieval, and vision agents based on query context and confidence scores.
+- **Advanced Multimodal RAG:** Integrates Docling for rich document parsing (tables, text, figures), LLM query expansion, Qdrant hybrid search (BM25 sparse + dense vectors), and Cross-Encoder (`ms-marco-TinyBERT`) re-ranking.
+- **Computer Vision & Guardrails:** PyTorch agents for chest X-ray disease classification and skin lesion segmentation, backed by input/output safety guardrails, confidence-based handoffs, and human-in-the-loop validation. *(Note: Brain tumor integration is documented as upcoming/TBD).*
+- **Infrastructure & Audio:** Containerized with Docker and tested via GitHub Actions CI; integrated ElevenLabs API for low-latency voice interaction.
+- **Tech Stack:** `Python` &bull; `FastAPI` &bull; `LangGraph` &bull; `Qdrant` &bull; `Docling` &bull; `PyTorch` &bull; `Docker`
+- 🔗 **[Explore Multi-Agent Medical Assistant →](https://github.com/vdevisricharan/Multi-Agent-Medical-Assistant)**
 
-### ⚙️ Tools & Platforms
+---
 
-#### Version Control & IDEs
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <!-- VS Code --> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+### Curated Repositories
 
-#### Other Tools
-<!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <!-- Linux --> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- Strapi --> <a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3fe9f597bffdf00fd02927133a76d866a1b0b0b383e5889337bf951a894deb25/68747470733a2f2f7374726170692e696f2f6173736574732f7374726170692d6c6f676f2d6461726b2e737667" alt="strapi" width="80" height="40"/> </a> <!-- Payload CMS --> <a href="https://payloadcms.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/62968818?s=48&v=4" alt="payloadcms" width="40" height="40"/> </a>
+#### 🔹 [Cost-Efficient RAG Application](https://github.com/vdevisricharan/cost-efficient-rag-application)
+- **What it does:** End-to-end question-answering service pairing embedded/self-hosted vector stores (**LanceDB** with Apache Arrow columnar disk format and **ChromaDB**) with **Gemini 2.5 Flash**.
+- **Engineering Highlights:** Evaluates zero-always-on-pod vector infrastructure, demonstrating up to **99.9% analytical cost reduction** over managed vector cloud databases in benchmark modeling; features SHA-256 chunk idempotency, configurable similarity cutoff ($\tau = 0.35$ with 100% fallback accuracy on unanswerables), and a 20-query evaluation harness ($p_{50} = 26.48\text{ ms}$ retrieval latency).
+- **Tech Stack:** `Python` &bull; `FastAPI` &bull; `Gemini 2.5 Flash` &bull; `LanceDB` &bull; `ChromaDB` &bull; `SentenceTransformers`
+- 🔗 **[View Repository →](https://github.com/vdevisricharan/cost-efficient-rag-application)**
 
-## 📈 GitHub Stats
+#### 🔹 [LLM-as-Judge Evaluation Pipeline](https://github.com/vdevisricharan/llm-as-judge-evaluation-pipeline)
+- **What it does:** Automated evaluation engine for scoring and comparing LLM outputs across structured test suites with code-level bias detection and statistical validation.
+- **Engineering Highlights:** Implements programmatic mitigations for position, verbosity, self-enhancement, and score clustering biases; enforces Pydantic structured output validation with fallback JSON repair, Cohen's Kappa ($\kappa$) inter-rater agreement, token/cost tracking, and A/B winner aggregation.
+- **Tech Stack:** `Python` &bull; `Gemini API` &bull; `Pydantic` &bull; `Evaluation Engineering` &bull; `CLI`
+- 🔗 **[View Repository →](https://github.com/vdevisricharan/llm-as-judge-evaluation-pipeline)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdevisricharan&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### 🔹 [LLM Recipe Generation System](https://github.com/vdevisricharan/LLM-Recipe-Generation-System)
+- **What it does:** Parameter-efficient fine-tuning and evaluation pipeline generating structured recipes from ingredient constraints.
+- **Engineering Highlights:** Fine-tuned open-weight models (**Llama 3 7B**, **Gemma 7B**, **Mistral 7B**) using LoRA and Unsloth with 4-bit quantization and RoPE scaling; benchmarked generation quality and perplexity against baseline architectures (T5, GPT-2, LSTM, GRU).
+- **Tech Stack:** `Python` &bull; `PyTorch` &bull; `Hugging Face Transformers` &bull; `LoRA` &bull; `Unsloth`
+- 🔗 **[View Repository →](https://github.com/vdevisricharan/LLM-Recipe-Generation-System)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdevisricharan&show_icons=true&&theme=radical&count_private=true)
+#### 🔹 [GenAI Assistant with RAG](https://github.com/vdevisricharan/gen-ai-assistant-with-rag)
+- **What it does:** Lightweight, self-contained RAG assistant built with FastAPI and SQLite vector storage using Gemini embeddings and generation.
+- **Engineering Highlights:** Local knowledge-base document chunking, cosine similarity threshold verification ("Insufficient information" fallback for low-confidence queries), and session-based conversational history tracking.
+- **Tech Stack:** `Python` &bull; `FastAPI` &bull; `SQLite` &bull; `Gemini API` &bull; `RAG`
+- 🔗 **[View Repository →](https://github.com/vdevisricharan/gen-ai-assistant-with-rag)**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vdevisricharan)
+#### 🔹 [Kapture Collections Voicebot](https://github.com/vdevisricharan/kapture-collections-voicebot)
+- **What it does:** Outbound AI voice collections agent for Kapture Finance built on Vapi.ai with a mock Node.js server deployed on Render.
+- **Engineering Highlights:** Implements customer identity authentication (DOB / PAN validation), overdue EMI disclosure, and webhook-driven Promise-to-Pay (PTP) negotiation workflows without requiring human intervention on routine calls.
+- **Tech Stack:** `Node.js` &bull; `Express` &bull; `Vapi.ai` &bull; `Webhooks` &bull; `Render`
+- 🔗 **[View Repository →](https://github.com/vdevisricharan/kapture-collections-voicebot)**
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+---
+
+## 💼 Work Experience
+
+### 🏢 Software Engineer &bull; [Skizen](https://skizen.in/)
+*Oct 2025 – Present &bull; Hyderabad, India*
+- Developing a mobile-first social discovery platform using **React Native (Expo)** and **Django / Express** backends.
+- Engineered spatial data models with **GeoJSON 2dsphere indexing** for location-based demand mapping, category feeds, and business opportunity discovery.
+- Built asynchronous backend pipelines using **Celery and Redis** to decouple analytics aggregation, notifications, and background media processing.
+- Implemented real-time bidirectional messaging via **Socket.IO** with JWT authentication, typing indicators, and TOTP-based 2FA security.
+
+### 🏢 Software Engineer &bull; [Lumiq](https://lumiq.ai/)
+*Jun 2024 – Aug 2025 &bull; Noida, India*
+- Engineered an AI-powered virtual sales agent using **LangChain, LangGraph**, and **Next.js (SSR/SSG)** for interactive real-time client demos.
+- Designed a high-throughput insurance data deduplication engine with Python, Django, and **AWS ETL pipelines (S3, Glue, Athena)**.
+- Authored an automated data correction pipeline that successfully eliminated **over 350,000 duplicate financial exposure records** for a major insurance client.
+- Built an internal project and resource allocation platform using **React, NestJS**, and **PostgreSQL**.
+
+---
+
+## 🛠️ Technical Stack
+
+| Domain | Technologies |
+|:---|:---|
+| **Programming** | Python, JavaScript, TypeScript, SQL, Java, Bash |
+| **Frontend & Mobile** | React, React Native (Expo), Next.js, Redux, Zustand, Tailwind CSS, HTML5, CSS3 |
+| **Backend & APIs** | Django, Django REST Framework, FastAPI, Flask, Node.js, Express.js, NestJS, REST APIs, Socket.IO |
+| **AI / ML / RAG** | LangChain, LangGraph, PyTorch, TensorFlow, Hugging Face, Transformers, Qdrant, LanceDB, ChromaDB, Docling, SentenceTransformers, RAG, NLP |
+| **Data, Cloud & DevOps** | PostgreSQL, MySQL, MongoDB, AWS (EC2, S3, Lambda, Athena, Glue), Celery, Redis, Docker, Git, GitHub Actions, Firebase / FCM, Cloudinary |
+
+---
+
+## 📊 GitHub & Engineering Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vdevisricharan&show_icons=true&theme=transparent&hide_border=true&title_color=D4B461&text_color=94a3b8&icon_color=D4B461" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevisricharan&layout=compact&theme=transparent&hide_border=true&title_color=D4B461&text_color=94a3b8" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 📬 Connect With Me
+
+- **Portfolio:** [vdevisricharan.netlify.app](https://vdevisricharan.netlify.app)
+- **LinkedIn:** [linkedin.com/in/vdevisricharan](https://linkedin.com/in/vdevisricharan)
+- **Email:** [vdevisricharan@gmail.com](mailto:vdevisricharan@gmail.com)
+- **Resume:** [View Online Resume](https://vdevisricharan.netlify.app/Devi_Sri_Charan_SWE_2026.html)
+
+---
+<div align="center">
+  <sub>Designed &amp; Maintained by Devi Sri Charan Valupadasu &bull; 2026</sub>
+</div>
