@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a **Software Engineer** at [Skizen](https://skizen.in/) with previous experience at [Lumiq](https://lumiq.ai/), holding a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in) (2020–2024).
+I'm a **Software Engineer** at [Trace](https://wearetrace.vercel.app/) with previous experience at [Lumiq](https://lumiq.ai/), holding a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in) (2020–2024).
 
 I build production-oriented systems where robust software engineering meets applied AI:
 - **Backend Architecture & APIs:** Developing scalable RESTful services, spatial query engines, and real-time communication systems with Django REST Framework, FastAPI, Node.js/Express, and PostgreSQL.
